@@ -1,10 +1,12 @@
 # CCPrimer
 
+### 声明: 
+ - 板块中如无特殊说明内容整理均来自《C++ Primer 第五版》。
 ### 1. 为什么要开辟这个专栏
-奉行终身学习的观念,本人也有时间进行更新，当然也希望有小伙伴们一起加入学习的队伍。这个专栏将会以基础为主，采业余学习的递进方式。
+奉行终身学习的观念,再不学习就是一只废狗了,本人也有时间进行更新，当然也希望有小伙伴们一起加入学习的队伍。这个专栏将会以基础为主，采业余学习的递进方式。
 ### 2. 日程计划
 专栏正在审核(ps: 过不了还需再等90天),目前规划为每日学习2小时，周一至周五更新。跟进书籍为《C++Primer 》。文章更新以进度为主,不以时长码字。
 ### 3. 目录
 
 ### 4. 抱团方法
-![微信扫码](https://github.com/fangker/CCPrimer/blob/master/image/index/v2-59416fcdcac480002e8254ad694aef48_b.jpg?raw=true)
+<img src="https://github.com/fangker/CCPrimer/blob/master/image/index/v2-59416fcdcac480002e8254ad694aef48_b.jpg?raw=true" width = "50%" />
